@@ -2,7 +2,7 @@
 Spring Boot + React in front-end for Todo List Application
 
 Build a TODO list application
-Note: I haven't use React before, so i got help from existing projects and used some of sample codes. But still i've got some errors and confuguring problems.In any case i've learn lots of things about React and Spring Boot.So thanks for giving me this chance.
+Note: I haven't use React with spring before, so i got help from existing projects and used some of sample codes. But still i've got some errors and confuguring problems.In any case i've learn lots of things about React and Spring Boot.So thanks for giving me this chance.
  
 ## Tasks:
 Expected features are;
